@@ -1,0 +1,11 @@
+{
+  "name": "hokkaido-trip-planner",
+  "version": "1.0.0",
+  "description": "北海道自駕旅程規劃 Web App（純靜態，無建置步驟）",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
